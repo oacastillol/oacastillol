@@ -34,9 +34,10 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Soy ingeniero de sistemas y computación con afinidad al software libre. Me gusta jugar videojuegos y compartir con mis amigos al lado de una buena comida. Trabajo como Desarollador fullstack con experiencia en trabajo en equipo, implementación de soluciones tecnologicas y aplicativos Web. Ocacionalmente apoyo iniciativas y eventos de difusión del software libre y derechos digitales.
+about_me_description: I am a Computer Systems Engineer with with an affinity for free software. I like to play video games and share with my friends over a good meal. I work as a fullstack Developer with experience in teamwork, implementation of technological solutions and Web applications. Occasionally I support initiatives and events for the dissemination of free software and digital rights.
+# Soy ingeniero de sistemas y computación con afinidad al software libre. Me gusta jugar videojuegos y compartir con mis amigos al lado de una buena comida. Trabajo como Desarollador fullstack con experiencia en trabajo en equipo, implementación de soluciones tecnologicas y aplicativos Web. Ocacionalmente apoyo iniciativas y eventos de difusión del software libre y derechos digitales.
 
-#I am a Computer Systems Engineer with
+
 
 # SKILLS SECTION
 # show_skills_card:
