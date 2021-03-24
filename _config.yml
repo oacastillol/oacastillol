@@ -34,7 +34,9 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Description
+about_me_description: Soy ingeniero de sistemas y computación con afinidad al software libre. Me gusta jugar videojuegos y compartir con mis amigos al lado de una buena comida. Trabajo como Desarollador fullstack con experiencia en trabajo en equipo, implementación de soluciones tecnologicas y aplicativos Web. Ocacionalmente apoyo iniciativas y eventos de difusión del software libre y derechos digitales.
+
+#I am a Computer Systems Engineer with
 
 # SKILLS SECTION
 # show_skills_card:
@@ -51,9 +53,13 @@ skills_title: Skills
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
 timeline_title: Education & Experience
+# show_cv:
+# > setting this to true, will display the paragraph with cv_download_link
+# > setting this to false, will omit the paragraph with cv_download_link
+show_cv: false
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
+cv_download_link:
 
 # PROJECTS SECTION
 # show_projects_card:
@@ -103,8 +109,12 @@ projects:
     forks: true
     # projects: A list of the repository names you want to exclude from the listing.
     projects:
-    # - repo1-to-be-excluded
-    # - repo2-to-be-excluded
+     - sa_academy_api
+     - sa_students_ms
+     - sa_grades_ms
+     - sa_grades_ms
+     - sa_courses_ms
+     - sa_academy_proxy
 
 # GOOGLE-ANALYTICS
 # Set the id, if you want to track your website with Google Analytics
