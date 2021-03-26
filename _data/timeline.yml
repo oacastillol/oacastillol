@@ -17,20 +17,70 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: Universidad Nacional de Colombia
+  title-url: https://ingenieria.bogota.unal.edu.co/en/programs/undergraduate/systems-and-computer-engineering.html
+  date: 2020
+  subtitle: Computer Systems Engineer
+  timeline-side: left
 
-- title: Comming soon
-  title-url: https://example.com/
-  date: Sep 2017 - Toda
-  subtitle: FullStack Developer as Intern
+- title: Fundación Correlibre
+  title-url: http://www.correlibre.org/co/
+  date: 2019 - 2020
+  subtitle: FullStack Developer
   tags:
     - tag: PHP
     - tag: HTML
     - tag: Javascript
+    - tag: Jquery
     - tag: CSS
+    - tag: Postgresql
+    - tag: Apache
+    - tag: Linux
+    - tag: Orfeogpl
   timeline-side: right
 
-- title: Universidad Nacional de Colombia
-  title-url: https://ingenieria.bogota.unal.edu.co/en/programs/undergraduate/systems-and-computer-engineering.html
-  date: 2021
-  subtitle: Computer Systems Engineer
-  timeline-side: left
+
+- title: Treeium
+  title-url: https://treeium.com/
+  date: Oct 2018 - May 2019
+  subtitle: Freelance Mobile and Fullstack Developer
+  tags:
+    - tag: Java
+    - tag: Mysql
+    - tag: Swift
+    - tag: Android
+    - tag: Flutter
+    - tag: Spring
+  timeline-side: right
+
+- title: INFOMÉTRIKA S.A.S
+  title-url: https://web.infometrika.com/
+  date: 2017 - 2018
+  subtitle: FullStack Developer
+  tags:
+    - tag: PHP
+    - tag: HTML
+    - tag: Javascript
+    - tag: Jquery
+    - tag: CSS
+    - tag: Postgresql
+    - tag: Apache
+    - tag: Linux
+    - tag: Orfeo
+  timeline-side: right
+
+- title: Fundación Correlibre
+  title-url: http://www.correlibre.org/co/
+  date: 2017 - 6 months
+  subtitle: FullStack Developer
+  tags:
+    - tag: PHP
+    - tag: HTML
+    - tag: Javascript
+    - tag: Jquery
+    - tag: CSS
+    - tag: Postgresql
+    - tag: Apache
+    - tag: Linux
+    - tag: Orfeogpl
+  timeline-side: right

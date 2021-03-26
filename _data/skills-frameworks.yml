@@ -30,4 +30,7 @@
   weight: 2
 
 - name: Rails
+  weight: 1
+
+- name: JQuery
   weight: 2
