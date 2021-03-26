@@ -7,7 +7,7 @@ title: oacastillol
 description: Personal website by Osmar Alejandro Castillo Lancheros
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/oacastillol"
+baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
