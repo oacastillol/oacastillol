@@ -9,7 +9,7 @@
   weight: 4
 
 - name: Laravel
-  weight: 6
+  weight: 5
 
 - name: Flask
   weight: 4
