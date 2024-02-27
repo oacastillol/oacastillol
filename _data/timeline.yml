@@ -16,7 +16,39 @@
 #     - tag: Ruby
 #     - tag: Rails
 #   timeline-side: right
-
+- title: Aira Colombia S.A.S
+  title-url: https://www.airavirtual.com/
+  date: jan 2021 - Now
+  subtitle: FullStack Developer
+  tags:
+    - tag: PHP
+    - tag: Laravel
+    - tag: HTML
+    - tag: Javascript
+    - tag: Jquery
+    - tag: CSS
+    - tag: MySQL
+    - tag: Linux
+    - tag: Vue.js
+  timeline-side: right.
+  
+- title: The Possibility Company
+  title-url: https://www.linkedin.com/company/the-possibility-company/about/
+  date: aug 2021 - Jan 2022
+  subtitle: FullStack Developer
+  tags:
+    - tag: PHP
+    - tag: HTML
+    - tag: Javascript
+    - tag: Jquery
+    - tag: CSS
+    - tag: MySQL
+    - tag: AWS
+    - tag: Linux
+    - tag: Yii
+    - tag: React-Native
+  timeline-side: right.
+  
 - title: Universidad Nacional de Colombia
   title-url: https://ingenieria.bogota.unal.edu.co/en/programs/undergraduate/systems-and-computer-engineering.html
   date: 2020
@@ -25,7 +57,7 @@
 
 - title: Fundación Correlibre
   title-url: http://www.correlibre.org/co/
-  date: 2019 - 2020
+  date: 2019 - 2021
   subtitle: FullStack Developer
   tags:
     - tag: PHP
