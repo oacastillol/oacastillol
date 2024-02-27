@@ -8,6 +8,9 @@
 - name: PHP
   weight: 5
 
+- name: Laravel
+  weight: 5
+  
 - name: JavaScript
   weight: 4
 
