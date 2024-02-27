@@ -6,10 +6,10 @@
 #   weight: 5
 
 - name: Vue
-  weight: 3
+  weight: 4
 
 - name: Laravel
-  weight: 3
+  weight: 6
 
 - name: Flask
   weight: 4
@@ -34,3 +34,6 @@
 
 - name: JQuery
   weight: 2
+
+- name: React
+  weught: 2
