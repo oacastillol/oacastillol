@@ -30,8 +30,8 @@
     - tag: MySQL
     - tag: Linux
     - tag: Vue.js
-  timeline-side: right.
-  
+  timeline-side: right
+
 - title: The Possibility Company
   title-url: https://www.linkedin.com/company/the-possibility-company/about/
   date: aug 2021 - Jan 2022
@@ -47,8 +47,8 @@
     - tag: Linux
     - tag: Yii
     - tag: React-Native
-  timeline-side: right.
-  
+  timeline-side: right
+
 - title: Universidad Nacional de Colombia
   title-url: https://ingenieria.bogota.unal.edu.co/en/programs/undergraduate/systems-and-computer-engineering.html
   date: 2020
