@@ -6,7 +6,7 @@
 #   weight: 5
 
 - name: PHP
-  weight: 6
+  weight: 5
   
 - name: JavaScript
   weight: 5
